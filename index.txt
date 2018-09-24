@@ -1,4 +1,4 @@
-Page d'accueil
+Page d'accueil 1
 modification du fichier
 insertion d'une barre de navigation
 Affichage du catalogue
