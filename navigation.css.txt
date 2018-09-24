@@ -1,1 +1,2 @@
 styles de la barre de navigation
+correction de bugs
